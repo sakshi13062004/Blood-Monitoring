@@ -1,5 +1,5 @@
 # About
-“Blood Point” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas.
+“Blood Monitoring” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas.
 
 # Features
 Easy contact between blood donor and blood recipient through this android application.<br>
@@ -24,7 +24,7 @@ Included:
 You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
 
 ```
-https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk
+https://github.com/sakshi/BloodBank/releases/latest/download/blood-point.apk
 ```
 
 Download will be started automatically. After then install it on your android device.
